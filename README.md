@@ -5,9 +5,9 @@ Materials for the Intellectual Data Analysis course [lectures](https://sites.goo
 
 [Pr_2](https://github.com/natsakh/IAD/tree/main/Pr_2) Supervised learning with scikit-learn lib [youtube](https://youtu.be/1CcxZ8Pk8-c)
 
-[Pr 3](https://github.com/natsakh/IAD/tree/main/Pr_3) Unsupervised Learning
+[Pr 3](https://github.com/natsakh/IAD/tree/main/Pr_3) Unsupervised Learning [youtube](https://youtu.be/xbvBWXtC2Ds)
 
-[Pr 4](https://github.com/natsakh/IAD/tree/main/Pr_4) Intro to NLP 
+[Pr 4](https://github.com/natsakh/IAD/tree/main/Pr_4) Intro to NLP [youtube](https://youtu.be/RbuT3S8lqO4)
 
 [Pr 5](https://github.com/natsakh/IAD/tree/main/Pr_5) Fully Connected Neural Nets
 
