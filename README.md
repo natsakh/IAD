@@ -15,4 +15,4 @@ Materials for the Intellectual Data Analysis course [lectures](https://sites.goo
 
 [Pr 7](https://github.com/natsakh/IAD/tree/main/Pr_7) Transformers and HF [youtube](https://youtu.be/Gpzj6RzX0vA)
 
-[Pr 8](https://github.com/natsakh/IAD/tree/main/Pr_8) Style Transfer, GAN, VAE, Diffusion
+[Pr 8](https://github.com/natsakh/IAD/tree/main/Pr_8) Style Transfer, GAN, VAE, Diffusion [youtube](https://youtu.be/GwC5lA2a34s)
